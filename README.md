@@ -17,13 +17,13 @@
 
 ## 🔧 Project Structure
 
-✅ Frontend: HTML, CSS, JavaScript – Provides a responsive, user-friendly, and accessible interface.
+ Frontend: HTML, CSS, JavaScript – Provides a responsive, user-friendly, and accessible interface.
 
-✅ Backend: PHP with MySQL – Manages data processing, user authentication, and database interactions.
+ Backend: PHP with MySQL – Manages data processing, user authentication, and database interactions.
 
-✅ Database: MySQL – Securely stores donor and patient data, ensuring privacy and efficiency.
+ Database: MySQL – Securely stores donor and patient data, ensuring privacy and efficiency.
 
-Environment: XAMPP is used to manage the local development server, database, and backend processing.
+ Environment: XAMPP is used to manage the local development server, database, and backend processing.
 
 
 ## Login Page
